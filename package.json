@@ -1,0 +1,9 @@
+{
+  "name":"topdown-parser-studio",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Interactive top-down parsing learning studio powered by the original student backend",
+  "scripts": {"start":"node server.js", "dev":"node server.js", "test":"node --test tests/*.test.js", "cli":"node protected/main.js"},
+  "engines":{"node":">=18"},
+  "license":"UNLICENSED"
+}
